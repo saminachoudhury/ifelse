@@ -22,7 +22,6 @@ public class Ifelse {
 		}
 		else{
 			System.out.println("F");
-			
 		}
 		// TODO Auto-generated method stub
 		
